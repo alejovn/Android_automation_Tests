@@ -1,4 +1,4 @@
-# [Nombre del proyecto] 📱
+# [AndroidTest] 📱
 
 Este es un proyecto de automatización de pruebas para una aplicación móvil de Android, utilizando **WebdriverIO** y **Appium**. El objetivo es garantizar la calidad y el correcto funcionamiento de las funcionalidades principales de la aplicación.
 
@@ -23,12 +23,12 @@ Asegúrate de tener instalado lo siguiente antes de empezar:
 
 1.  Clona este repositorio:
     ```bash
-    git clone [https://github.com/](https://github.com/)[tu-usuario]/[tu-repositorio].git
+    git clone [https://github.com/](https://github.com/)[alejovn]/[Android_automation_Tests].git
     ```
 
 2.  Navega al directorio del proyecto e instala las dependencias:
     ```bash
-    cd [nombre-de-tu-proyecto]
+    cd [AndroidTest]
     npm install
     ```
 
